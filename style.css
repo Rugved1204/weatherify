@@ -175,30 +175,31 @@ h1 {
 
 /* Footer Styling */
 footer {
-  background-color: #333; /* Dark background */
+  background-color: #2f4f4f; /* Slate gray for a cohesive look */
   color: #fff; /* White text */
   text-align: center;
-  padding: 15px 0;
-  margin-top: 20px;
+  padding: 20px 10px; /* Adequate spacing */
+  margin-top: 20px; /* Create separation from content */
   font-size: 14px;
 }
 
-.footer-container {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
 footer a {
-  color: #1da1f2; /* LinkedIn blue */
-  text-decoration: none;
+  color: #ffdb58; /* Golden color for the LinkedIn link */
   font-weight: bold;
+  text-decoration: none;
 }
 
 footer a:hover {
-  color: #0d8bd9; /* Slightly darker blue on hover */
+  color: #f4a460; /* Light golden shade for hover */
   text-decoration: underline;
 }
 
 footer p {
-  margin: 5px 0; /* Minimal spacing between lines */
+  margin: 8px 0; /* Adjust spacing between lines */
 }
+
+.footer-container {
+  max-width: 800px;
+  margin: 0 auto; /* Center the footer content */
+}
+
