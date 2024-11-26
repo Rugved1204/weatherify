@@ -175,12 +175,12 @@ h1 {
 
 /* Footer Styling */
 footer {
-  background-color: #525e75; /* Slate gray for a cohesive look */
-  color: #fff; /* White text */
-  text-align: center;
-  padding: 20px 10px; /* Adequate spacing */
-  margin-top: 20px; /* Create separation from content */
-  font-size: 14px;
+    background-color: #525e75;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 20px;
+    font-size: 14px;
 }
 
 footer a {
